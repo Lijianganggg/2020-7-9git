@@ -2,3 +2,4 @@
 2、配置邮箱和姓名
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+3、链接github 参照教程：https://www.cnblogs.com/xiximayou/p/11997071.html
