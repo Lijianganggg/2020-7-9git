@@ -1,1 +1,4 @@
-今天刚创建git，开始记录使用过程。初始化git 仓库命令：git init。
+1、今天刚创建git，开始记录使用过程。初始化git 仓库命令：git init。
+2、配置邮箱和姓名
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
